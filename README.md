@@ -1,6 +1,6 @@
 # IntelectualDataAnalyse
 
-Instal
+Install
 _____________________________
 - Donwload files
 - place it to python lib folder
